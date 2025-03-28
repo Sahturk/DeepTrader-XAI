@@ -1,0 +1,9 @@
+ccxt
+pandas
+python-dotenv
+stable-baselines3
+transformers
+scipy
+sklearn
+matplotlib
+keras
